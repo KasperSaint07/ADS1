@@ -27,7 +27,7 @@ public class Main {
                     Task1.run(); // Find minimum
                     break;
                 case 2:
-             //       Task2.run(); // Average
+                    Task2.run(); // Average
                     break;
                 case 3:
                //     Task3.run(); // Prime
