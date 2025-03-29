@@ -45,7 +45,7 @@ public class Main {
                     Task7.run(); // Reverse
                     break;
                 case 8:
-                    //Task8.run(); // Check digits
+                    Task8.run(); // Check digits
                     break;
                 case 9:
                     //Task9.run(); // Binomial coefficient
