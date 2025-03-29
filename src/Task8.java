@@ -40,6 +40,6 @@ public class Task8 {
         if (!Character.isDigit(s.charAt(index))) {
             return false;
         }
-        return isAllDigits(s, index + 1);
+        return isAllDigits(s, index + 1); // recursion
     }
 }
