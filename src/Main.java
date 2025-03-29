@@ -30,7 +30,7 @@ public class Main {
                     Task2.run(); // Average
                     break;
                 case 3:
-               //     Task3.run(); // Prime
+                   Task3.run(); // Prime
                     break;
                 case 4:
                  //   Task4.run(); // Factorial
