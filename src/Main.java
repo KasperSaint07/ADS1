@@ -36,10 +36,10 @@ public class Main {
                     Task4.run(); // Factorial
                     break;
                 case 5:
-                   // Task5.run(); // Fibonacci
+                    Task5.run(); // Fibonacci
                     break;
                 case 6:
-                   // Task6.run(); // Power
+                    Task6.run(); // Power
                     break;
                 case 7:
                     //Task7.run(); // Reverse
