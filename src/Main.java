@@ -51,7 +51,7 @@ public class Main {
                     Task9.run(); // Binomial coefficient
                     break;
                 case 10:
-                    //Task10.run(); // GCD
+                    Task10.run(); // GCD
                     break;
                 case 0:
                     System.out.println("Exiting...");
