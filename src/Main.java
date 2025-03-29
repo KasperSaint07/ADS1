@@ -33,7 +33,7 @@ public class Main {
                    Task3.run(); // Prime
                     break;
                 case 4:
-                 //   Task4.run(); // Factorial
+                    Task4.run(); // Factorial
                     break;
                 case 5:
                    // Task5.run(); // Fibonacci
