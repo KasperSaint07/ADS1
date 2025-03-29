@@ -42,7 +42,7 @@ public class Main {
                     Task6.run(); // Power
                     break;
                 case 7:
-                    //Task7.run(); // Reverse
+                    Task7.run(); // Reverse
                     break;
                 case 8:
                     //Task8.run(); // Check digits
