@@ -6,7 +6,7 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("\n=== Function & Recursion Lab ===");
+            System.out.println("\n=== Assignment1 ===");
             System.out.println("1. Find minimum in array");
             System.out.println("2. Find average");
             System.out.println("3. Check if number is prime");
